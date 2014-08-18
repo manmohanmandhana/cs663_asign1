@@ -1,0 +1,16 @@
+
+%% The code for calling all the outputs of the question
+
+%% Part A: Linear Contrast Streching
+
+[output1] = functionA('I:\acads\Sem 5\CS663\Assignment1\120070003_120070004\2\images\imageA.png');
+figure;
+imshow('I:\acads\Sem 5\CS663\Assignment1\120070003_120070004\2\images\imageA.png');     % The original Image
+figure;
+imshow(output1);                                                                        % The output Image
+
+%% Part B: Histogram Equalization
+
+%% Part C: Adaptive Histogram Equalization
+
+[output2]
