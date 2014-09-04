@@ -14,3 +14,12 @@ Includes
 -- Histogram Equilization
 -- Adaptive Histogram processing
 -- Contrast Limiting Adaptive Histogram Processing
+
+in the Assignment2
+
+../1
+-- Code for Unsharp Masking
+../2
+-- Code for implementing bilateral filter
+../3
+-- code for edge preserving patch based filtering
